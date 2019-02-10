@@ -1,7 +1,8 @@
 # dns-sec-check
-Use this script to check your dns/url security protection work or not..
+Use this script to check your dns/url security solution work or not..__
 Testing feeds:
 - SANS
+- ransomwaretracker.abuse.ch
 
 ## Installation
 ```
